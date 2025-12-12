@@ -23,9 +23,6 @@
 
 I am an adaptable and quick-learning **Full-Stack Software Engineer** based in **Dhaka, Bangladesh**. With a strong background in **Computer Science** and a passion for **Competitive Programming**, I love solving complex problems and building scalable, real-time systems. I have experience working in agile environments, contributing to innovative projects, and researching Deep Learning applications.
 
-- 💬 Ask me about **Next.js, React, Node.js, and Algorithms**.
-- ⚡ Fun fact: I have solved **650+** algorithmic problems across various platforms!
-
 ---
 
 ## 🛠️ Tech Stack
@@ -50,6 +47,9 @@ I am an adaptable and quick-learning **Full-Stack Software Engineer** based in *
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -59,6 +59,9 @@ I am an adaptable and quick-learning **Full-Stack Software Engineer** based in *
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![RestAPI](https://img.shields.io/badge/RestAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -70,6 +73,8 @@ I am an adaptable and quick-learning **Full-Stack Software Engineer** based in *
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-F76C5E?style=for-the-badge&logo=convex&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0C05?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
@@ -85,12 +90,25 @@ I am an adaptable and quick-learning **Full-Stack Software Engineer** based in *
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![Joi](https://img.shields.io/badge/Joi-FA5252?style=for-the-badge&logo=joi&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
+
+### Other Skills
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Algorithms](https://img.shields.io/badge/Algorithms-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![OOP](https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![SaaS](https://img.shields.io/badge/SaaS-000000?style=for-the-badge&logo=software-as-a-service&logoColor=white)
+![ERP](https://img.shields.io/badge/ERP-007ACC?style=for-the-badge&logo=microsoft&logoColor=white)
 
 </div>
 
@@ -133,6 +151,18 @@ I have a strong passion for algorithms and data structures. Here are my stats:
 ### 🏠 AirBnb Light
 *Tech: Next.js, Redux Toolkit, TailwindCSS, Firebase*
 - A responsive frontend clone of AirBnb with dynamic filtering, price search, and interactive property discovery.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=likhon4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Likhon's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhon4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhon4&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+</div>
 
 ---
 
