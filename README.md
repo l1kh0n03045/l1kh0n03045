@@ -23,9 +23,6 @@
 
 I am an adaptable and quick-learning **Full-Stack Software Engineer** based in **Dhaka, Bangladesh**. With a strong background in **Computer Science** and a passion for **Competitive Programming**, I love solving complex problems and building scalable, real-time systems. I have experience working in agile environments, contributing to innovative projects, and researching Deep Learning applications.
 
-- 🔭 I’m currently working as a **Software Engineer at Creation Plus**.
-- 🌱 I’m currently learning **Advanced System Design & AI Research**.
-- 👯 I’m looking to collaborate on **Open Source Projects & AI-based Startups**.
 - 💬 Ask me about **Next.js, React, Node.js, and Algorithms**.
 - ⚡ Fun fact: I have solved **650+** algorithmic problems across various platforms!
 
@@ -102,7 +99,7 @@ I am an adaptable and quick-learning **Full-Stack Software Engineer** based in *
 
 | Company | Role | Duration | Location |
 | :--- | :--- | :--- | :--- |
-| **Creation Plus** | Software Engineer | Sept 2025 - Present | Dhaka, Bangladesh |
+| **Creation Plus** | Software Engineer | Sept 2025 - Dec. 2025 | Dhaka, Bangladesh |
 | **Implevista** | Junior Software Engineer | Nov 2024 - Jun 2025 | Dhaka, Bangladesh |
 | **Itransition Group** | Intern Developer | Sep 2024 - Nov 2024 | Remote (USA) |
 
