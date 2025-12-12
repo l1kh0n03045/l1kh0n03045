@@ -109,6 +109,8 @@ I am an adaptable and quick-learning **Full-Stack Software Engineer** based in *
 ![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![SaaS](https://img.shields.io/badge/SaaS-000000?style=for-the-badge&logo=software-as-a-service&logoColor=white)
 ![ERP](https://img.shields.io/badge/ERP-007ACC?style=for-the-badge&logo=microsoft&logoColor=white)
+![Scrum Master](https://img.shields.io/badge/Scrum_Master-005696?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 </div>
 
